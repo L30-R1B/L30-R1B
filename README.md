@@ -9,12 +9,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor de software apaixonado p
 
 
 ## 📊 Estatísticas do GitHub
-
 [![L30-R1B's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30-R1B&show_icons=true&theme=tokyonight)](https://github.com/L30-R1B/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30-R1B&layout=compact&theme=tokyonight)](https://github.com/L30-R1B/github-readme-stats)
-
-![L30-R1B's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30-R1B&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
 ## Meus Projetos
 
