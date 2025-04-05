@@ -12,4 +12,4 @@ Aqui estão alguns dos meus projetos principais:
 
 ## Contato
 
-- [Instagram](https://www.instagram.com/leo_rib3/)
+- [Instagram](https://www.instagram.com/leo_ribeiro_av/)
