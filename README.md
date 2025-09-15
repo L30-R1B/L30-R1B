@@ -51,10 +51,10 @@
 - 🔐 [**RSA Encryption (Rust)**](https://github.com/L30-R1B/RSA)  
   Implementação de criptografia RSA do zero em Rust
 
-- 🔒 **AES Encryption (Java)**  
+- 🔒 [**AES Encryption (Java)**](https://github.com/L30-R1B/AES)  
   Projeto de criptografia simétrica avançada
 
-- ⚙️ [**Simulador de Processos (C)**](https://github.com/L30-R1B/)  
+- ⚙️ [**Simulador de Processos (C)**](https://github.com/L30-R1B/Simulador-de-Processos)  
   Projeto acadêmico sobre arquitetura de computadores e escalonamento
 
 - 🌐 [Veja todos meus projetos no GitHub](https://github.com/L30-R1B?tab=repositories)
