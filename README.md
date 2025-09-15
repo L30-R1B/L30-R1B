@@ -1,7 +1,7 @@
 <!-- Banner estilizado opcional: pode adicionar uma imagem aqui -->
 <!-- <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%"> -->
 
-<h1 align="center">Olá, eu sou o L30-R1B! 👋</h1>
+<h1 align="center">Olá, eu sou o Léo Ribeiro ! 👋</h1>
 <p align="center">
   <b>Estudante de Ciência da Computação na UFSJ</b><br>
   <i>Buscando oportunidades como desenvolvedor júnior</i>
@@ -48,13 +48,13 @@
 
 ## 🏆 Projetos em Destaque
 
-- 🔐 [**RSA Encryption (Rust)**](https://github.com/L30-R1B/astronomia-game)  
+- 🔐 [**RSA Encryption (Rust)**](https://github.com/L30-R1B/RSA)  
   Implementação de criptografia RSA do zero em Rust
 
 - 🔒 **AES Encryption (Java)**  
   Projeto de criptografia simétrica avançada
 
-- ⚙️ [**Simulador de Processos (C)**](https://github.com/L30-R1B/tec-web)  
+- ⚙️ [**Simulador de Processos (C)**](https://github.com/L30-R1B/)  
   Projeto acadêmico sobre arquitetura de computadores e escalonamento
 
 - 🌐 [Veja todos meus projetos no GitHub](https://github.com/L30-R1B?tab=repositories)
