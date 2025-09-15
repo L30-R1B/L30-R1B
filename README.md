@@ -1,87 +1,79 @@
-<!-- Banner estilizado opcional: pode adicionar uma imagem aqui -->
-<!-- <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%"> -->
+<h1 align="center">Olá, eu sou Léo Ribeiro! 👋</h1>
 
-<h1 align="center">Olá, eu sou o Léo Ribeiro ! 👋</h1>
 <p align="center">
-  <b>Estudante de Ciência da Computação na UFSJ</b><br>
-  <i>Buscando oportunidades como desenvolvedor júnior</i>
+  <b>Desenvolvedor e Estudante de Ciência da Computação na UFSJ</b><br>
+  <i>Apaixonado por sistemas de baixo nível, segurança e otimização de algoritmos.</i>
 </p>
 
+<p align="center">
+  <a href="mailto:lr82460@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/L30-R1B"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+
 ---
+
+## 🚀 Sobre Mim
+
+Como estudante de Ciência da Computação (2022/2), minha paixão reside na resolução de problemas complexos, especialmente nos domínios de **sistemas de baixo nível, segurança da informação e otimização de algoritmos**. Essa busca por eficiência e segurança me levou a aprofundar em linguagens como **C, Rust e Java**, onde aplico os conceitos teóricos da academia em projetos práticos e desafiadores.
+
+Estou sempre buscando entender como as coisas funcionam em seu nível mais fundamental para construir soluções mais rápidas, seguras e robustas. Meu objetivo é encontrar uma oportunidade como desenvolvedor júnior onde eu possa aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos inovadores.
+
+---
+
+## 🛠️ Tecnologias e Habilidades
 
 <div align="center">
-
-<!-- Badges de skills -->
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Algoritmos-ea4c89?style=for-the-badge">
-<img src="https://img.shields.io/badge/Redes%20Complexas-1f8acb?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-ef476f?style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação na UFSJ desde 2022/2
-- 💡 Apaixonado por resolver problemas complexos e otimizar soluções
-- 🔐 Interesse especial em segurança da informação e análise de redes
-- ⚙️ Gosto de levar meus projetos ao limite e aprender no processo 🚀
-
----
-
-## 🛠️ Principais Skills
-
-- **Linguagens:**  
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">  
-
-- **Habilidades:**  
-  Código claro e conciso, otimização, programação modular  
-  Experiência acadêmica com redes complexas, simulações, algoritmos de busca/pattern matching
+- **Linguagens:** C, Rust e Java, com foco em performance e segurança.
+- **Áreas de Foco:** Segurança da Informação (Criptografia), Análise de Redes Complexas, Algoritmos, Estrutura de Dados e Sistemas Operacionais.
+- **Conceitos:** Programação modular, código limpo, otimização de performance e concorrência.
+- **Ferramentas:** Git, GitHub, Docker e ambientes baseados em Linux.
 
 ---
 
 ## 🏆 Projetos em Destaque
 
+Acredito que a melhor forma de aprender é construindo. Abaixo estão alguns projetos que demonstram minhas habilidades e interesses:
+
 - 🔐 [**RSA Encryption (Rust)**](https://github.com/L30-R1B/RSA)  
-  Implementação de criptografia RSA do zero em Rust
+  *Implementação do zero do algoritmo de criptografia assimétrica RSA em Rust, explorando os fundamentos matemáticos da segurança digital.*
 
 - 🔒 [**AES Encryption (Java)**](https://github.com/L30-R1B/AES)  
-  Projeto de criptografia simétrica avançada
+  *Projeto que implementa o padrão de criptografia simétrica avançada (AES), focando em uma arquitetura robusta e modular em Java.*
 
 - ⚙️ [**Simulador de Processos (C)**](https://github.com/L30-R1B/Simulador-de-Processos)  
-  Projeto acadêmico sobre arquitetura de computadores e escalonamento
+  *Trabalho acadêmico para a disciplina de Arquitetura de Computadores, que simula o escalonamento de processos em um sistema operacional.*
 
-- 🌐 [Veja todos meus projetos no GitHub](https://github.com/L30-R1B?tab=repositories)
+- 🌐 [**Veja todos os meus repositórios no GitHub**](https://github.com/L30-R1B?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 No que estou focado agora
+
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento de sistemas com Rust** e explorando **análise de malware**. Meu objetivo é continuar aprimorando minhas habilidades em segurança e programação de baixo nível para enfrentar desafios cada vez maiores.
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L30-R1B&show_icons=true&theme=radical" alt="L30-R1B's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L30-R1B&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L30-R1B&show_icons=true&theme=radical" alt="Estatísticas de L30-R1B"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L30-R1B&layout=compact&theme=radical" alt="Linguagens mais usadas por L30-R1B"/>
 </div>
-
----
-
-## 📬 Contato
-
-- 📧 Email: [lr82460@gmail.com](mailto:lr82460@gmail.com)
-- 🌐 GitHub: [github.com/L30-R1B](https://github.com/L30-R1B)
 
 ---
 
 <details>
   <summary>Curiosidades</summary>
   <ul>
-    <li>Já trabalhei com simulações de epidemias e geração de redes sociais artificiais</li>
-    <li>Gosto de explorar novos desafios práticos e acadêmicos</li>
+    <li>Minha jornada acadêmica inclui trabalhos com simulações de epidemias e a geração de redes sociais artificiais, o que despertou meu interesse por sistemas complexos.</li>
+    <li>Sou um entusiasta de desafios de programação e capturas de bandeira (CTFs) para aprimorar minhas habilidades práticas em segurança.</li>
   </ul>
 </details>
 
