@@ -74,9 +74,9 @@
 
 - **Linguagens:**  
 
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> &nbsp;
-
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
 
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">  
 
